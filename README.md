@@ -11,3 +11,5 @@ GooglePlayStoreAppsAnalysis: https://colab.research.google.com/drive/1LxkrUFEnqs
 UdemyCoursesDataAnalysis: https://colab.research.google.com/drive/1yM1SM3JAYwv0D3MLWsuq9sffhrSkGZAu?authuser=0#scrollTo=QdqP3nZRVkLq
 
 YoutubeChannelsDataAnalysis: https://colab.research.google.com/drive/16BTYKo_f5jiOkqxLu0ftQNJagLiiMCUr?usp=sharing
+
+IMBD MOvies Data Analysis: https://colab.research.google.com/drive/1brNeW5acNeAXxDN4rxBf-mhq9PJzTHiU?usp=sharing
