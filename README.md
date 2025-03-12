@@ -9,3 +9,5 @@ Adult Income Analysis: https://colab.research.google.com/drive/1NtdyFWpFakua6Buc
 GooglePlayStoreAppsAnalysis: https://colab.research.google.com/drive/1LxkrUFEnqsKOp0wf4Yv01u339Z-F8LDv#scrollTo=zTbjIBORTj57
 
 UdemyCoursesDataAnalysis: https://colab.research.google.com/drive/1yM1SM3JAYwv0D3MLWsuq9sffhrSkGZAu?authuser=0#scrollTo=QdqP3nZRVkLq
+
+YoutubeChannelsDataAnalysis: https://colab.research.google.com/drive/16BTYKo_f5jiOkqxLu0ftQNJagLiiMCUr?usp=sharing
