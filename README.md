@@ -13,3 +13,5 @@ UdemyCoursesDataAnalysis: https://colab.research.google.com/drive/1yM1SM3JAYwv0D
 YoutubeChannelsDataAnalysis: https://colab.research.google.com/drive/16BTYKo_f5jiOkqxLu0ftQNJagLiiMCUr?usp=sharing
 
 IMBD MOvies Data Analysis: https://colab.research.google.com/drive/1brNeW5acNeAXxDN4rxBf-mhq9PJzTHiU?usp=sharing
+
+Heart Disease Data Analysis: https://colab.research.google.com/drive/1ehWwqSi8MalDYPbE5JE2rwwONjo2tLma?usp=sharing
