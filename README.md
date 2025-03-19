@@ -15,3 +15,5 @@ YoutubeChannelsDataAnalysis: https://colab.research.google.com/drive/16BTYKo_f5j
 IMBD MOvies Data Analysis: https://colab.research.google.com/drive/1brNeW5acNeAXxDN4rxBf-mhq9PJzTHiU?usp=sharing
 
 Heart Disease Data Analysis: https://colab.research.google.com/drive/1ehWwqSi8MalDYPbE5JE2rwwONjo2tLma?usp=sharing
+
+Airbnb Data Analysis: https://colab.research.google.com/drive/1tq9PxwplapvEB3QL8bZTLim8UNlhcGBM?usp=sharing
