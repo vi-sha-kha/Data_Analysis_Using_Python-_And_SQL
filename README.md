@@ -17,3 +17,5 @@ IMBD MOvies Data Analysis: https://colab.research.google.com/drive/1brNeW5acNeAX
 Heart Disease Data Analysis: https://colab.research.google.com/drive/1ehWwqSi8MalDYPbE5JE2rwwONjo2tLma?usp=sharing
 
 Airbnb Data Analysis: https://colab.research.google.com/drive/1tq9PxwplapvEB3QL8bZTLim8UNlhcGBM?usp=sharing
+
+Movies Data Analysis: https://colab.research.google.com/drive/1LaaOf3LC6pdHUR5orEZiIxpS8wyTFspA?usp=sharing
