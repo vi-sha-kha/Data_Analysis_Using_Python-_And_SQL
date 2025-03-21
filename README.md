@@ -19,3 +19,5 @@ Heart Disease Data Analysis: https://colab.research.google.com/drive/1ehWwqSi8Ma
 Airbnb Data Analysis: https://colab.research.google.com/drive/1tq9PxwplapvEB3QL8bZTLim8UNlhcGBM?usp=sharing
 
 Movies Data Analysis: https://colab.research.google.com/drive/1LaaOf3LC6pdHUR5orEZiIxpS8wyTFspA?usp=sharing
+
+Heart Dataset Analysis: https://colab.research.google.com/drive/1Miikjf5nU3BJ0p-E91puet324R068i8D?usp=sharing
